@@ -31,9 +31,10 @@ The following dependencies are needed by CRISPRDetect3 to run.
 	RNAfold 	Comes with Vienna RNA package  :	Download the correct version specific for your operating system from http://www.tbi.univie.ac.at/RNA/#download
 	cd-hit-est 	Comes with cdhit package  	   :	Download from http://weizhongli-lab.org/cd-hit/download.php  	
 	blastn 		Comes with ncbi-blast+ package :	Download from ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
-	makeblastdb Comes with ncbi-blast+ package : 	Download from ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+	makeblastdb 	Comes with ncbi-blast+ package : 	Download from ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
 
 Other dependencies [Optional]:	
+-----------------------------
 
 	gmhmmp.pl 	Developed by Georgia Institute of Technology :	Download from http://exon.gatech.edu/Genemark/license_download.cgi	
 	hmmsearch 	Developed by Howard Hughes Medical Institute :	Download from http://eddylab.org/software/hmmer/hmmer-3.3.1.tar.gz 
